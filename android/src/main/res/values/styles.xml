@@ -1,0 +1,11 @@
+<resources>
+    <style name="TouchIdDialog" parent="@style/Theme.AppCompat.Light.Dialog">
+        <item name="android:windowNoTitle">false</item>
+		    <item name="android:colorControlNormal">#00ff00</item>
+		    <item name="android:colorControlHighlight">#edb011</item>
+		    <item name="colorPrimary">#edb011</item>
+		    <item name="colorAccent">#404040</item>
+		    <item name="android:textColorPrimary">#edb011</item>
+		    <item name="android:background">#404040</item>
+    </style>
+</resources>

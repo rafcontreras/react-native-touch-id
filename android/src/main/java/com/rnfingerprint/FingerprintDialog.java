@@ -36,7 +36,7 @@ public class FingerprintDialog extends DialogFragment implements FingerprintHand
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setStyle(DialogFragment.STYLE_NORMAL, android.R.style.Theme_Material_Light_Dialog);
+        setStyle(DialogFragment.STYLE_NORMAL, R.style.TouchIdDialog);
         setCancelable(false);
     }
 
